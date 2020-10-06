@@ -1,2 +1,2 @@
-This repo is about the pre bootcamp challenges
+This repo is for the pre bootcamp challenges
 
