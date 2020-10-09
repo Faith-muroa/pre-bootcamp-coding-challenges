@@ -1,7 +1,9 @@
-def convert(num):
-    
-    return num / 60
+def change_to_hm(num):
+    hour = num // 60
+    hour1 = num % 60
+    minute = hour1 % 60
+    print(hour, "hours", minute, "minutes")
 
 
-print(convert(167))
+change_to_hm(71)
 
